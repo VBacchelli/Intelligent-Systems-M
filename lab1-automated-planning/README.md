@@ -18,11 +18,11 @@ All adjacency facts are explicitly listed.
 
 ---
 
-## 2. Painting Robot
+## 2. Painting Robots
 
 **Domain definition:**  
-A robot moves across a tiled grid and can paint the tile it stands on if it carries the correct color. 
-There are two robot that carry fixed colors. A robot can only move to adjacent, unpainted tiles.
+Two robots move across a tiled grid and can paint the tile they stand on with the color they're carrying.
+The carried color of each robot is fixed. A robot can only move to adjacent, unpainted tiles.
 The domain describes:
 - robot location  
 - color the robot holds  
